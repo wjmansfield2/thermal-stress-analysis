@@ -7,4 +7,4 @@ The model specifically compares thermal stress and yield strength in Inconel 690
 In addition to the coding, the project was designed with the intent of developing a complete workflow across multiple engineering tools — beginning with data modeling in Python, moving to 3D part design in Siemens NX, and ultimately validating the model via finite element analysis in ANSYS Workbench. While the FEA portion is not yet complete, it is planned as a future step to confirm and compare analytical results.
 
 Update 6/1/25:
-A simple FEA analysis was performed to validate Python model using only Inconel 690. The ANSYS Model can be found in ANSYS_Files along with screenshots of the mesh. Additionally, a summary of finding can be found entitled "Thermal Stress Analysis - Summary of Findings" in this file.
+A simple FEA analysis was performed to validate Python model using only Inconel 690. The ANSYS Model can be found in ANSYS_Files along with screenshots of the mesh. Additionally, a summary of finding can be found in this file tree entitled "Thermal Stress Analysis - Summary of Findings."
